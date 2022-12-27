@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Equalizer Booster</string>
+
+    <string name="AgcFirstYellowCheckExplain">The AGC function is enabled so the manual edit of the gain value is temporary and will not be saved. In this condition the AGC label becomes yellow. If you want the gain manual control disable the AGC function.</string>
+    <string name="Allow">ALLOW</string>
+    <string name="Allow_Overlays">Allow Overlays</string>
+    <string name="Allow_Overlays_Message">This permission is necessary to guarantee the automatic startup. Please Allow this permission.</string>
+    <string name="Allow_battery_opt_spotiq_description">Android, to consume less power, by default automatically close applications that we are not using. For Equalizer Booster the optimization must be disabled because otherwise after a while it stops working because the OS closes the audio connections. Equalizer Booster does not consume power when run in the background.</string>
+    <string name="Allow_battery_opt_spotiq_title">Allow Equalizer Booster to run in background!</string>
+    <string name="Apply_close">APPLY AND CLOSE</string>
+    <string name="Are_you_sure_Q">Are you sure?</string>
+    <string name="AudioResourceError">Audio Resource Error, the app will be closed. Restart your device and if the issue occurred again, open the Help Center, and follow the instructions. Another Equalizer app, Battery optimization, App reset needs, could be the root cause. Feel free to contact us.</string>
+    <string name="Autostart_not_activated_warning">Autostart not activated! Please, turn on the DISPLAY OVER APPS permission!</string>
+    <string name="BBSworkingMessage">The BBS could be not supported by your device. Are you continuing to hear correctly?</string>
+    <string name="BBSworkingTitle">Are you continuing to hear correctly?</string>
+    <string name="ComplimentiPro">Congratulations, the pro version will be enabled! The app will be closed to install all the additional features. A positive review will help you too!</string>
+    <string name="DeleteEqQ">Are you sure to delete this Equalization?</string>
+    <string name="DisableBBSq">Disable BBS Plugin?</string>
+    <string name="DisableBBSqMessage">Do you want to disable the plugin? You can activate it again in the settings menu.</string>
+    <string name="Enable">ENABLE</string>
+    <string name="ErrorOnResCloseApp">Equalizer Booster can\'t be enabled because another Audio equalization system continues to retake control of the audio resources. Usually, the causes can be: 10- Advanced audio options (equalizer, virtualizer, booster…) of your device (not an external app) are active. Please open the audio menu of your device and check it. 10- Another equalizer app or another app with an integrated equalizer continues to force the connection with the audio effects resources. Please disable it and reboot the device. 10In any case, you can contact us.</string>
+    <string name="Exit">EXIT</string>
+    <string name="ForceRun">Ignore this error and run Equalizer Booster. The app may become unstable.</string>
+    <string name="HelpUsToImprove">HELP US TO IMPROVE SPOTIQ</string>
+    <string name="HelpUsToImproveMessage">If you have a problem, write to us. Putting a negative review will simply reduce resources to the continuous improvement of the project. Our support team is available EVERY DAY. A positive review will gift a smile to our coding guys because the resources for the project will be raised up. Positive Reviews for a better App.</string>
+    <string name="Huawei_message">Equalizer Booster will be automatically closed by your HUAWEI device! For avoiding this please, set the manual management for Equalizer Booster in the battery management menù! Press the Enable button and do it now!</string>
+    <string name="Huawei_title">Huawei Settings - WARNING!</string>
+    <string name="MissingEqualizerName">Missing Equalizer Name!</string>
+    <string name="MissingInfoSpotify">Missing track info from Spotify! Please try to re-select this song or skip or restart Spotify.</string>
+    <string name="MoreDetectedApps">Number of the detected incompatible apps</string>
+    <string name="NeverShowWarning">Don\'t show this warning again.</string>
+    <string name="No">NO</string>
+    <string name="PresetEqUpdated">Preset Equalization Updated!</string>
+    <string name="PrestEqSaved">Preset Equalization Saved!</string>
+    <string name="Reset_Default_Summary">Reset all the parameters to the default values, DELETE all the custom presets and close Equalizer Booster.</string>
+    <string name="TapToOpenSettings">Tap to open the equalizer booster</string>
+    <string name="UninstallApps">One or More apps are incompatible with Equalizer Booster. 10- Click on the following app 10- Uninstall it 10- Reboot your device</string>
+    <string name="Vertical_Zoom_Equalizer">Vertical Zoom Equalizer</string>
+    <string name="Warning">WARNING!</string>
+    <string name="Yes">YES</string>
+    <string name="enable_equalizer">Enable Equalizer</string>
+    <string name="exit">Exit</string>
+    <string name="get_pro_version">Get PRO version</string>
+    <string name="preset_name">Preset Name</string>
+    <string name="presets">Presets</string>
+
+
+</resources>

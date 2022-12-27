@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ActionBarHeight">32dp</dimen>
+    <dimen name="margin_bottom_db_labels_under_sliders">7dp</dimen>
+    <dimen name="slider_size">280dp</dimen>
+    <dimen name="thumbOffset">15dp</dimen>
+</resources>
